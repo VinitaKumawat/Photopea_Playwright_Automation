@@ -28,10 +28,14 @@ The goal of this project is to automate basic design operations in Photopea usin
 photopea-playwright-automation
 │
 ├── tests
+
 │ └── photopea.spec.js
+
 │
 ├── package.json
+
 ├── README.md
+
 
 ## Prerequisites
 

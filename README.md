@@ -26,6 +26,7 @@ The goal of this project is to automate basic design operations in Photopea usin
 
 ## Project Structure
 photopea-playwright-automation
+
 │
 ├── tests
 
